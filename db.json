@@ -1,0 +1,71 @@
+{
+  "salad": [
+    {
+      "id": 1,
+      "image": "https://img.ixbt.site/live/topics/preview/00/05/96/27/ae42127517.jpg",
+      "name": "Цезарь",
+      "price": 150,
+      "Opisanie": "Классический салат Цезарь с хрустящими гренками, курицей и пармезаном."
+    },
+    {
+      "id": 2,
+      "image": "https://i.pinimg.com/originals/fc/90/3a/fc903a51ee4ad5a6bce07ee7e012fcd5.jpg",
+      "name": "Греческий салат",
+      "price": 120,
+      "Opisanie": "Свежий греческий салат с помидорами, огурцами и фетой."
+    },
+    {
+      "id": 3,
+      "image": "https://i.pinimg.com/originals/f7/5b/2d/f75b2dab593a161ec06e9de7ecaef1b1.jpg",
+      "name": "Салат с тунцом",
+      "price": 180,
+      "Opisanie": "Салат с тунцом, яйцом и свежими овощами."
+    }
+  ],
+  "hot_dishes": [
+    {
+      "id": 1,
+      "image": "https://i.pinimg.com/originals/0e/97/ed/0e97eddbab9cf8b9cdae2971a821219c.jpg", 
+      "name": "Курица с грибами",
+      "price": 350,
+      "Opisanie": "Нежная курица, запеченная с грибами и сливочным соусом."
+    },
+    {
+      "id": 2,
+      "image": "https://edastore.ru/wp-content/uploads/2016/05/5ddeabe805129bbbb54ffb2287ce551f.jpg", 
+      "name": "Говядина по-бургундски",
+      "price": 400,
+      "Opisanie": "Тушеная говядина в красном вине с овощами."
+    },
+    {
+      "id": 3,
+      "image": "https://magazine.tabris.ru/wp-content/uploads/2019/11/Spagetti_s_moreproduktami.jpg", 
+      "name": "Паста с морепродуктами",
+      "price": 300,
+      "Opisanie": "Паста с креветками и кальмарами в томатном соусе."
+    }
+  ],
+  "desserts": [
+    {
+      "id": 1,
+      "image": "https://cdn1.ozone.ru/s3/multimedia-m/6348760678.jpg", 
+      "name": "Тирамису",
+      "price": 120,
+      "Opisanie": "Итальянский десерт с кофе и маскарпоне."
+    },
+    {
+       "id": 2,
+       "image": "https://avatars.mds.yandex.net/i?id=b613b506a582f663149d36c6d47e434b_l-5303596-images-thumbs&n=13", 
+       "name": "Шоколадный торт",
+       "price": 150,
+       "Opisanie": "Нежный шоколадный торт с кремом."
+    },
+    {
+       "id": 3,
+       "image": "https://avatars.mds.yandex.net/i?id=0d400f6b17128ad8e5b61a6fd713114b_l-8210262-images-thumbs&n=13", 
+       "name": "Фруктовый салат",
+       "price": 100,
+       "Opisanie": "Свежий фруктовый салат с йогуртом."
+    }
+  ]
+}
